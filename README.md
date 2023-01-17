@@ -1,6 +1,6 @@
-# videocall1
+# Vidfoorti
 
-A new Flutter project.
+Flutter video calling app with Jitsi meet
 
 ![](https://github.com/walidx64/Vidfoorti/blob/main/Samsung%20%20Galaxy%20S22%20(5).png)
 
